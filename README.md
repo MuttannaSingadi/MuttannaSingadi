@@ -30,7 +30,7 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://muttanna-portfolio-site-mo93.vercel.app/" target="_blank">
+  <a href="https://muttanna-portfolio-crpa.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=vercel&style=for-the-badge"/>
   </a>
 </div>
