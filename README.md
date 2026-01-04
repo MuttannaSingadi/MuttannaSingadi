@@ -19,10 +19,22 @@
 
 ## 🔗 Connect with me:
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muttanna-singadi-311705292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
   </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/MuttannaSingadi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://muttanna-portfolio-site-mo93.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?logo=vercel&style=for-the-badge"/>
+  </a>
 </div>
+
 
 ---
 
