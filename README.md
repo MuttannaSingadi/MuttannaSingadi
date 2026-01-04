@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **Frontend & Backend Web Development, PHP, MySQL, and React Native**
-- 📫 How to reach me: **Muttufs565@gmail.com**
+- 📫 How to reach me: **Muttufs565@gmail.com | +91 7676196602**
+
 
 </div>
 
