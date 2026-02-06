@@ -8,8 +8,8 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **DSA**
-- 💬 Ask me about **Java, Python, Frontend & Backend Web Development, PHP, MySQL, and React Native**
+- 🌱 I’m currently learning **DSA And AI/ML**
+- 💬 Ask me about **Java, Python, Frontend & Backend Web Development, PHP, MySQL,AI/ML and React Native**
 - 📫 How to reach me: **Muttufs565@gmail.com | +91 7676196602**
 
 
